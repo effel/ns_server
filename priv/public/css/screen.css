@@ -1173,7 +1173,7 @@ body.staleness-active a.disable-if-stale:hover { text-decoration: none; cursor: 
 #view_results_block{position:relative;margin-top:5px}
 #view_results_block h1{margin-bottom:5px;padding-top:10px;}
 /*prev next arr*/
-#view_results_block .ic_prev_next {float:right;width:61px;height:25px;margin:5px 0 0}
+#view_results_block .ic_prev_next {position:absolute;right:130px;top:10px;width:61px;height:25px;margin:5px 0 0} 
 #view_results_block .ic_prev_next a {float:left;width:24px;height:21px;background:url(../images/ic_prev_next_arr.png) no-repeat}
 #view_results_block .ic_prev_next .arr_next {background-position:-4px -1px}
 #view_results_block .ic_prev_next .arr_next:hover {background-position:-4px -27px}

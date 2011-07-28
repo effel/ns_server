@@ -1247,3 +1247,4 @@ body.staleness-active a.disable-if-stale:hover { text-decoration: none; cursor: 
 
 ul.tabs.dev-subset-switcher { padding-top: 3px; padding-bottom: 3px; padding-left: 12px; }
 .cm-s-default {border:1px solid #ccc}
+.CodeMirror-scroll {min-height: 202px;}

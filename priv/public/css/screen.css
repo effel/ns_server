@@ -393,7 +393,7 @@ div.resource_panel div.ssd_resource_container div.resource-row div input.path-bo
 #views .view_head {float:left;padding:12px 0 0 31px}
 #views .results_header { line-height: 31px; padding-left: 12px; }
 .clearfix .fl_inp {float:right;width:270px;margin:0 0 0 10px;text-align:left}
-.bucket_details .create_dev {padding:0 0 0 4px;color:#bbb;background:#fff;border:1px solid #CCD3D7}
+.bucket_details .create_dev {padding:0;color:#bbb;background:#fff;border:1px solid #CCD3D7}
 .bucket_details .create_dev input[disabled=""] {color:#BBBBBB;background:#fff}
 .bucket_details .bolder {font-weight:bold}
 .shadow_box .section {border:0px;}
@@ -1036,7 +1036,7 @@ html>/**/body #servers .list_button span, x:-moz-any-link, x:default {float:none
  .additional_server_info.bucket_details label {font-size:12px;}
  .additional_server_info.bucket_details h2 + label {width:auto;clear:both;}
  .additional_server_info.bucket_details .clear + .size-gauge + label {margin:0;}
-.bucket_details label input {padding:3px 3px;font-size:13px; text-align:right;border:1px solid #ccd3d7;}
+.bucket_details label input {padding:3px 0;font-size:13px; text-align:right;border:1px solid #ccd3d7;}
 .bucket_details label input[type="checkbox"], .bucket_details label input[type="radio"] {width:auto;position:relative;top:2px;border:none;}
 .bucket_details label abbr {margin-left:6px;}
 .bucket_details label span {display:block;float:left;margin: 0 6px 0 10px;color: #404042;text-align:left;}

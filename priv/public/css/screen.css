@@ -1206,7 +1206,7 @@ body.staleness-active a.disable-if-stale:hover { text-decoration: none; cursor: 
 .filter_cont .filter {float:left;margin:14px 7px 0 0;color:#616062;font-size:18px;}
 .filter_cont .exp_filter {float:left;width:57px;height:44px; margin:0 1px 0 0;background:url(../images/exp_filter.png) 0 -58px}
 .filter_cont a.selected {background:url(../images/exp_filter.png) 0 0}
-.f_popup {position:absolute;display:none;z-index:1;top:43px;left:9px;width:437px;padding: 24px 0 18px;background:white;-moz-box-shadow: 0 0 8px #777;-webkit-box-shadow: 0 0 8px #777;box-shadow:0 0 8px #777;-moz-border-radius:0 10px 10px 10px;-webkit-border-radius:0 10px 10px 10px;border-radius:0 10px 10px 10px}
+.f_popup {position:absolute;display:none;z-index:1;top:43px;left:9px;width:437px;padding: 24px 0 18px;background:white;-moz-box-shadow: 0 0 8px #777;-webkit-box-shadow: 0 0 8px #777;box-shadow:0 0 8px #777;-moz-border-radius:0 10px 10px 10px;-webkit-border-radius:0 10px 10px 10px;border-radius:0 10px 10px 10px;border:1px solid #CCCCCC;}
 .f_popup .f_cont {position:relative;overflow:hidden;margin: 0 0 0;}
 .f_popup .f_cont .wrap {float:left;width:174px;margin:2px 6px 0 17px}
 .f_popup .f_cont .ic_plus {float:left;width:32px;height:31px;margin: 3px 0 0 8px;background:url(../images/ic_plus.png) no-repeat}
@@ -1246,3 +1246,4 @@ body.staleness-active a.disable-if-stale:hover { text-decoration: none; cursor: 
 .f_wrap .selectBox-dropdown .selectBox-arrow{font-size: 1.54em !important;}
 
 ul.tabs.dev-subset-switcher { padding-top: 3px; padding-bottom: 3px; padding-left: 12px; }
+.cm-s-default {border:1px solid #ccc}
